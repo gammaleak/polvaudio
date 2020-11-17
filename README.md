@@ -4,10 +4,11 @@ This simple mod to the PlayOnlineViewer software provides alternate, quieter
 audio files so that your experience using PlayOnlineViewer is less annoying.
 
 There are two versions of the modification
-*	Quieter Original: This is all the original audio files modified to be -17dB
-	in volume.
-*	Quieter Modified: This is mostly all the same original audio files, but with
-	the two most common music files replaced (see "Credits" below).
+*	**Quieter Original:** This is all the original audio files modified to be
+	-17dB in volume.
+*	**Quieter Modified:** Mostly this is the same as *Quieter Original*, but
+	with the two most common music files replaced (see "Credits" below). All
+	the original audio files are still reduced by -17dB.
 
 ## Installation 
 1.	On the Github page, click on the green "Code" button and download as a zip
