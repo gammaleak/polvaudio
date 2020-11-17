@@ -13,10 +13,10 @@ There are two versions of the modification
 1.	On the Github page, click on the green "Code" button and download as a zip
 2.	On your computer, unzip the file
 3.	Choose the modification version you want to install
-	a. Quieter Original - In the unzipped folder navigate to \quieter-original\polvformat
-	b. Quieter Modified - In the unzipped folder navigate to \quieter-modified\polvformat
+	1. **Quieter Original** - In the unzipped folder navigate to \quieter-original\polvformat
+	2. **Quieter Modified** - In the unzipped folder navigate to \quieter-modified\polvformat
 4.	Copy the mod's "viewer" folder into your PlayOnlineViewer folder (for
-	example, in a steam installation the PlayOnlineViewerfolder would be in
+	example, in a steam installation the PlayOnlineViewer folder would be in
 	c:\Program Files (x86)\Steam\steamapps\common\FFXINA\SquareEnix\PlayOnlineViewer)
 5.	After the copy ends you have successfully installed the mod.
 
