@@ -1,3 +1,7 @@
+# ARCHIVED
+This software will not be updated here anymore. It's unlikely to get any updates in the future as it's more or less "complete." However, should future updates come, they will be found here:
+https://notabug.org/gammaleak/PlayOnlineQuieter
+
 # PlayOnlineQuieter
 PlayOnlineViewer, used to launch Final Fantasy XI, has very loud audio files.
 This simple mod to the PlayOnlineViewer software provides alternate, quieter
